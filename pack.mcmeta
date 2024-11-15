@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Star Technologie RP",
+    "pack_format": 41,
+    "supported_formats": {
+		"min_inclusive": 16, 
+		"max_inclusive": 256
+	}
+  }
+}
