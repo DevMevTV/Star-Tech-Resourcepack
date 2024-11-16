@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/leaves",
+    "textures": {
+      "all": "skyblock:item/infested/stage_4"
+    }
+  }

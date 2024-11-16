@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:block/oak_leaves",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "skyblock:item/infested/stage_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "skyblock:item/infested/stage_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "skyblock:item/infested/stage_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "skyblock:item/infested/stage_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "skyblock:item/infested/stage_5"
+        }
+    ]
+  }
