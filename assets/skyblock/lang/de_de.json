@@ -1,4 +1,10 @@
 {
   "block.skyblock.sieve": "Sieb",
-  "block.skyblock.mod_crafting_table": "Mod Werkbank"
+  "block.skyblock.mod_crafting_table": "Mod Werkbank",
+  "item.skyblock.string_mesh": "Fadennetz",
+  "item.skyblock.flint_mesh": "Feuersteinnetz",
+  "item.skyblock.iron_mesh": "Eisennetz",
+  "item.skyblock.gold_mesh": "Goldnetz",
+  "item.skyblock.diamond_mesh": "Diamantnetz",
+  "item.skyblock.netherite_mesh": "Netheritnetz"
 }
