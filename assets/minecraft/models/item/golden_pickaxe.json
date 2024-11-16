@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/gold_pickaxe"
+    "layer0": "minecraft:item/golden_pickaxe"
   },
   "overrides": [
     {
