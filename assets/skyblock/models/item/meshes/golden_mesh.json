@@ -1,1 +1,1 @@
-{"parent":"skyblock:item/meshes/template_mesh","textures":{"texture":"skyblock:block/meshes/golden_mesh"}}
+{"parent":"skyblock:item/meshes/template_mesh","textures":{"0":"skyblock:block/meshes/golden_mesh"}}
