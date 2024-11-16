@@ -2,7 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/block",
 	"textures": {
-		"1": "skyblock:block/meshes/string_mesh",
 		"particle": "#texture"
 	},
 	"elements": [
@@ -100,15 +99,6 @@
 				"west": {"uv": [14, 0, 15, 16], "texture": "#texture"},
 				"up": {"uv": [14, 14, 15, 15], "texture": "#texture"},
 				"down": {"uv": [14, 1, 15, 2], "texture": "#texture"}
-			}
-		},
-		{
-			"from": [1, 12, 1],
-			"to": [15, 12, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 12, 1]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		}
 	],
