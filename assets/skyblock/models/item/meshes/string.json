@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "skyblock:block/meshes/string_mesh"
+    "layer0": "skyblock:item/meshes/string"
   }
 }
