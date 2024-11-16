@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "skyblock:item/custom/toast"
+    "layer0": "skyblock:item/toast"
   }
 }
