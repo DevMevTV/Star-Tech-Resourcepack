@@ -8,7 +8,7 @@
         "predicate": {
             "custom_model_data": 1
         },
-        "model": "skyblock:hammer/diamond"
+        "model": "skyblock:item/hammer/diamond"
     }
   ]
 }
