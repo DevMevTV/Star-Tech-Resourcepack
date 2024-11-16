@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"skyblock:item/flint_mesh"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"skyblock:item/meshes/flint_mesh"}}
