@@ -1,0 +1,80 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/poisonous_potato"
+  }
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 1
+          },
+          "model": "skyblock:item/meshes/string_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 2
+          },
+          "model": "skyblock:item/meshes/flint_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 3
+          },
+          "model": "skyblock:item/meshes/iron_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 4
+          },
+          "model": "skyblock:item/meshes/golden_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 5
+          },
+          "model": "skyblock:item/meshes/diamond_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6
+          },
+          "model": "skyblock:item/meshes/netherite_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 11
+          },
+          "model": "skyblock:item/meshes/string_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 12
+          },
+          "model": "skyblock:item/meshes_item/flint_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 13
+          },
+          "model": "skyblock:item/meshes_item/iron_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 14
+          },
+          "model": "skyblock:item/meshes_item/golden_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 15
+          },
+          "model": "skyblock:item/meshes_item/diamond_mesh"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 16
+          },
+          "model": "skyblock:item/meshes_item/netherite_mesh"
+      },
+  ]
+}
