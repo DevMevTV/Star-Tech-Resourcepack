@@ -8,19 +8,19 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/silkworm"
+            "model": "skyblock:silkworm"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/scraper"
+            "model": "skyblock:scraper"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/string_mesh"
+            "model": "skyblock:string_mesh"
         }
     ]
 }
