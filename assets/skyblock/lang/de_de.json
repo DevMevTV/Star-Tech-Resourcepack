@@ -4,7 +4,7 @@
   "item.skyblock.string_mesh": "Fadennetz",
   "item.skyblock.flint_mesh": "Feuersteinnetz",
   "item.skyblock.iron_mesh": "Eisennetz",
-  "item.skyblock.gold_mesh": "Goldnetz",
   "item.skyblock.diamond_mesh": "Diamantnetz",
+  "item.skyblock.emerald_mesh": "Smaragdnetz",
   "item.skyblock.netherite_mesh": "Netheritnetz"
 }

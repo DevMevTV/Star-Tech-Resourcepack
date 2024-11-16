@@ -4,7 +4,7 @@
   "item.skyblock.string_mesh": "String Mesh",
   "item.skyblock.flint_mesh": "Flint Mesh",
   "item.skyblock.iron_mesh": "Iron Mesh",
-  "item.skyblock.gold_mesh": "Gold Mesh",
   "item.skyblock.diamond_mesh": "Diamond Mesh",
+  "item.skyblock.emerald_mesh": "Emerald Mesh",
   "item.skyblock.netherite_mesh": "Netherite Mesh"
 }
