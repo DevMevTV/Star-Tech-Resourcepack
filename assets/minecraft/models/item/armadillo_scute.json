@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "skyblock:item/string_mesh"
+            "model": "skyblock:item/meshes/string"
         }
     ]
 }
