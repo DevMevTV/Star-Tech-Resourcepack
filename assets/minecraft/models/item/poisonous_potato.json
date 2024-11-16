@@ -44,7 +44,7 @@
           "predicate": {
               "custom_model_data": 11
           },
-          "model": "skyblock:item/meshes/string_mesh"
+          "model": "skyblock:item/meshes_item/string_mesh"
       },
       {
           "predicate": {
@@ -75,6 +75,6 @@
               "custom_model_data": 16
           },
           "model": "skyblock:item/meshes_item/netherite_mesh"
-      },
+      }
   ]
 }
