@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "down": "skyblock:item/gui/crafting_table/crafting_table_bottom",
+      "east": "skyblock:item/gui/crafting_table/crafting_table_side",
+      "north": "skyblock:item/gui/crafting_table/crafting_table_front",
+      "particle": "skyblock:item/gui/crafting_table/crafting_table_front",
+      "south": "skyblock:item/gui/crafting_table/crafting_table_side",
+      "up": "skyblock:item/gui/crafting_table/crafting_table_top",
+      "west": "skyblock:item/gui/crafting_table/crafting_table_front"
+    }
+  }
