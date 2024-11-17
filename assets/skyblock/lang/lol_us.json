@@ -1,4 +1,5 @@
 {
+  "block.skyblock.dust_block": "Coughing stuff",
   "block.skyblock.sieve": "House",
   "block.skyblock.mod_crafting_table": "Specil Kraft table",
   "item.skyblock.string_mesh": "String Net",
@@ -7,6 +8,5 @@
   "item.skyblock.diamond_mesh": "Dimand Net",
   "item.skyblock.emerald_mesh": "Stonks Net",
   "item.skyblock.netherite_mesh": "Very Hard Net",
-  "item.skyblock.scraper": "Scraper",
-  "item.skyblock.dust": "Coughing stuff"
+  "item.skyblock.scraper": "Scraper"
 }

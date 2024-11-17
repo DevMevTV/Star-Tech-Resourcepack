@@ -1,4 +1,5 @@
 {
+  "block.skyblock.dust_block": "Pile of Dust",
   "block.skyblock.sieve": "Sieve",
   "block.skyblock.mod_crafting_table": "Mod Crafting Table",
   "item.skyblock.string_mesh": "String Mesh",
@@ -7,6 +8,5 @@
   "item.skyblock.diamond_mesh": "Diamond Mesh",
   "item.skyblock.emerald_mesh": "Emerald Mesh",
   "item.skyblock.netherite_mesh": "Netherite Mesh",
-  "item.skyblock.scraper": "Scraper",
-  "item.skyblock.dust": "Pile of Dust"
+  "item.skyblock.scraper": "Scraper"
 }

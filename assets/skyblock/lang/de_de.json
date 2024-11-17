@@ -1,4 +1,5 @@
 {
+  "block.skyblock.dust_block": "Staub",
   "block.skyblock.sieve": "Sieb",
   "block.skyblock.mod_crafting_table": "Mod Werkbank",
   "item.skyblock.string_mesh": "Fadennetz",
@@ -7,6 +8,5 @@
   "item.skyblock.diamond_mesh": "Diamantnetz",
   "item.skyblock.emerald_mesh": "Smaragdnetz",
   "item.skyblock.netherite_mesh": "Netheritnetz",
-  "item.skyblock.scraper": "Spachtel",
-  "item.skyblock.dust": "Staub"
+  "item.skyblock.scraper": "Spachtel"
 }
