@@ -6,5 +6,7 @@
   "item.skyblock.iron_mesh": "Iron Mesh",
   "item.skyblock.diamond_mesh": "Diamond Mesh",
   "item.skyblock.emerald_mesh": "Emerald Mesh",
-  "item.skyblock.netherite_mesh": "Netherite Mesh"
+  "item.skyblock.netherite_mesh": "Netherite Mesh",
+  "item.skyblock.scraper": "Scraper",
+  "item.skyblock.dust": "Pile of Dust"
 }

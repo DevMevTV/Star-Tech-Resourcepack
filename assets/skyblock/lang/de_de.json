@@ -6,5 +6,7 @@
   "item.skyblock.iron_mesh": "Eisennetz",
   "item.skyblock.diamond_mesh": "Diamantnetz",
   "item.skyblock.emerald_mesh": "Smaragdnetz",
-  "item.skyblock.netherite_mesh": "Netheritnetz"
+  "item.skyblock.netherite_mesh": "Netheritnetz",
+  "item.skyblock.scraper": "Spachtel",
+  "item.skyblock.dust": "Staub"
 }

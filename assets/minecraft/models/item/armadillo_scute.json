@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "skyblock:item/scraper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "skyblock:item/pile_of_dust"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "skyblock:item/block/dust"
         }
     ]
 }
