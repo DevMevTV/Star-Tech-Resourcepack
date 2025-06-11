@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "skyblock:item/hammer/gold"
+      "layer0": "exdeorum:item/hammer/wood"
     }
   }
